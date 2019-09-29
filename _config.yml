@@ -5,7 +5,7 @@ permalink: "/:title/"
 layout_style: overflow
 palette: blue
 header:
-  title: vcorva
+  title: Victor Corvalan
   tagline: ''
   profile_img: "/images/vcorvalogo.png"
   bg: dark
