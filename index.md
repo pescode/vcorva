@@ -6,7 +6,7 @@ sections:
   section_id: hero
   component: hero_block.html
   content: A developer developing things.
-  title: ''
+  title: Hi
   actions: []
 - type: contentblock
   template: contentblock
