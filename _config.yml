@@ -7,7 +7,7 @@ palette: blue
 header:
   title: Victor Corvalan
   tagline: ''
-  profile_img: "/images/vcorvalogo.png"
+  profile_img: "/images/vcorvasquare.png"
   bg: dark
   has_nav: true
   has_social: true
