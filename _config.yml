@@ -7,7 +7,7 @@ palette: blue
 header:
   title: vcorva
   tagline: ''
-  profile_img: images/avatar.png
+  profile_img: "/images/vcorvalogo.png"
   bg: dark
   has_nav: true
   has_social: true
