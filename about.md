@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Videogames and mobile front-end developer.
-img_path: "/images/IMG_0503.JPG"
+img_path: "/images/pepe-1066712.png"
 layout: page
 menu:
   main:
