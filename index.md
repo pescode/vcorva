@@ -21,7 +21,7 @@ sections:
   image: ''
 - type: postsblock
   template: postsblock
-  title: Recent Posts
+  title: Latest projects
   section_id: recent-posts
   actions:
   - label: View Blog
