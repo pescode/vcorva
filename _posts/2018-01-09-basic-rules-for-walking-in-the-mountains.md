@@ -32,4 +32,6 @@ Art & Animations: [Lia Aquino](https://www.linkedin.com/in/lia-ark-b15b5463/?lip
 
 Programming: [Victor Corvalan](https://www.linkedin.com/in/viccorvalan/)
 
+Made with Unity 3D / C#
+
 Published on August 2019
