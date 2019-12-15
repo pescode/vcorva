@@ -8,7 +8,7 @@ layout: post
 subtitle: An educational game made with Unity / WebGL
 
 ---
-After a long time out of game development, I got the opportunity to come back with this educational game made with Unity/WebGL for [Legends of Learning](legendsoflearning.com).
+After a long time out of game development, I got the opportunity this year to come back with this educational game made with Unity/WebGL for [Legends of Learning](legendsoflearning.com).
 
 ![](/images/purrmath02.jpg)
 
@@ -31,3 +31,5 @@ Game design: [Carlos Zaracho](https://www.linkedin.com/in/carlos-zaracho-8a9849b
 Art & Animations: [Lia Aquino](https://www.linkedin.com/in/lia-ark-b15b5463/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3B3pPmwDd8SzWuFp6CRBynEw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_people_connections-connection_profile)
 
 Programming: [Victor Corvalan](https://www.linkedin.com/in/viccorvalan/)
+
+Published on August 2019
