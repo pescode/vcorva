@@ -3,7 +3,7 @@ title: PURRMATH
 date: 2019-12-15 03:00:00 +0000
 thumb_img_path: "/images/purrmath01.jpg"
 content_img_path: "/images/purrmath06.jpg"
-excerpt: An educational game about fractions
+excerpt: An educational game about fractions made with Unity / WebGL
 layout: post
 subtitle: An educational game made with Unity / WebGL
 
