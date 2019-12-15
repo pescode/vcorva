@@ -9,12 +9,8 @@ menu:
     weight: 4
 
 ---
-Hey! My name is **Victor Corvalan** and I'm a mobile front-end developer and videogame developer from Asunción, Paraguay.
+Hey! My name is **Victor Corvalan** and I'm a mobile front-end developer and video game developer from Asunción, Paraguay.
 
-Currently working at Roshka S.A in charge of the mobile team and involved in many projects of the most largest financial and banks firms on my country.
+Currently working at Roshka S.A. with the mobile team and involved in many projects including the most largest financial firms on my country.
 
 Some of the tools and programming languages that I work are Java Android, iOS SWIFT, a little of OBJECTIVE-C, HTML/CSS/JS for hybrids apps, Unity3D C#, PhaserJS, Flutter / Dart.
-
-Some of my own personal projects:
-
-TOONMINATOR, BEW4RE ENTERTAINMENT, GAMBLERS / APOSTADORES.
