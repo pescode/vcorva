@@ -24,8 +24,6 @@ It has 4 different mini games to play with while learning the concepts of fracti
 
 ![](/images/purrmath05.jpg)
 
-![](/images/purrmath06-1.jpg)
-
 **Credits**
 
 Game design: [Carlos Zaracho](https://www.linkedin.com/in/carlos-zaracho-8a9849b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3B3pPmwDd8SzWuFp6CRBynEw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_people_connections-connection_profile)
