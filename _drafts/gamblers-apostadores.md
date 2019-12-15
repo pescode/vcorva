@@ -3,8 +3,8 @@ layout: post
 title: Gamblers / Apostadores
 subtitle: Multi-platform APP made with Flutter
 date: 2019-12-16 03:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/gamblers00.png"
+content_img_path: "/images/gamblers00.png"
 excerpt: ''
 
 ---
