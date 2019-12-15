@@ -5,7 +5,7 @@ subtitle: Multi-platform APP made with Flutter
 date: 2019-12-16 03:00:00 +0000
 thumb_img_path: "/images/gamblers00.png"
 content_img_path: "/images/gamblers00.png"
-excerpt: ''
+excerpt: A mobile app made with Flutter & Firebase
 
 ---
 A personal project I made to learn Flutter. Gamblers/Apostadores is an APP with daily sport betting tips.
