@@ -8,12 +8,26 @@ content_img_path: ''
 excerpt: ''
 
 ---
-A personal project I made to learn Flutter to share one of my hobbies "sports betting".
+A personal project I made to learn Flutter. Gamblers/Apostadores is an APP with daily sport betting tips.
 
-The project was made with Flutter
+The project was made with Flutter. The backend is in FIREBASE.
 
-The backend is in FIREBASE
+![](/images/gamblers01.jpg)
 
 It includes Admob ADS (banner, interstitial and rewarded), In-app purchases (monthly subscriptions), Push notifications. Available on Google Play and the APP Store.
 
+![](/images/gamblers02.jpg)
+
 The UI was fully designed by me.
+
+![](/images/gamblers03.jpg)
+
+* Made with Flutter
+* Available on Google Play & APP Store
+* Admob ADS (banners, interstitial and rewarded)
+* In-app purchases (Monthly subscriptions)
+* Push notifications
+* Firestore database
+* UI Designed by me with SketchAPP
+
+Published on October 2019
