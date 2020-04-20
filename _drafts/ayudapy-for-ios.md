@@ -3,19 +3,30 @@ layout: post
 title: AyudaPY for iOS
 subtitle: A mobile app made with SwiftUI
 date: 2020-04-19 04:00:00 +0000
-thumb_img_path: "/images/ayudaPYiOS01.png"
+thumb_img_path: "/images/ayudaPYCover.png"
 content_img_path: "/images/ayudaPYiOS01.png"
 excerpt: A mobile APP made with SwiftUI
 
 ---
-AyudaPY for iOS is the mobile version of [AyudaPY.org](https://ayudapy.org), an awesome platform for "helping people help people" created by [Marcelo Elizeche Landó](https://melizeche.com/) with the support of awesome guys in the tech area from my country.
+AyudaPY for iOS is a mobile version for [AyudaPY.org](https://ayudapy.org), an awesome platform for "helping people help people" created by [Marcelo Elizeche Landó](https://melizeche.com/) with the support of awesome guys in the tech area of my country.
 
-The platform allows people to ask for help describing their needs and for supporters to find them geo-localized and eventually helping them. I though that it was a simple and great idea so decided to create my own version of the platform giving the use of the mobile device.
+This APP was made with SwiftUI, it has some nice and smooth animations.
 
-The main idea of this project was to give the user a vision of the needs on their neighborhoods... that's why, the main screen is the user location showing the needs around his zone ( of course users can then explore their city and look if he can help others ).
+![](/images/portfolio01.png)
 
-Due to the amount of "ask for help" being registered on the platform, I though that it would be great to add a personal "Pending for Help" list, so the user can return later and get the info to help that person/family when it can.
+The objective of this app is to show the user all the help request near him. 
 
-Later, I decided to add a "Mark as DONE" button, so the user avoid contacting again with any person by mistake or maybe later, send to the platform and inform the system that it should be marked as ATTENDED.
+![](/images/portfolio03.png)Users can save help requests to avoid losing the track and send supplies for them later.
 
-The source code is available under GPLv3 license on [GitHub](https://github.com/pescode/AyudaPY-iOS).
+![](/images/portfolio02.png)
+
+I've focused in the FORM for registering help, I wanted that form to be fast, agile, comfortable, and I believe that I made it (I wanted it to be as similar as possible as Reflecty APP)... Currently the platform don't have a POST service yet to use so in the meantime I'm just redirecting to the web form.
+
+![](/images/portfolio04.png)
+
+AyudaPY is available on the APP STORE:  
+[https://apps.apple.com/us/app/ayudapy/id1508566089?ls=1](https://apps.apple.com/us/app/ayudapy/id1508566089?ls=1 "https://apps.apple.com/us/app/ayudapy/id1508566089?ls=1")
+
+You can also watch a DEMO of the project on Youtube [https://www.youtube.com/watch?v=id2zs00FWBA](https://www.youtube.com/watch?v=id2zs00FWBA "https://www.youtube.com/watch?v=id2zs00FWBA").
+
+Source code is available under GPLv3 license on [GitHub](https://github.com/pescode/AyudaPY-iOS).
