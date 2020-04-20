@@ -14,9 +14,11 @@ This APP was made with SwiftUI, it has some nice and smooth animations.
 
 ![](/images/portfolio01.png)
 
-The objective of this app is to show the user all the help request near him. 
+The objective of this app is to show the user all the help request near him.
 
-![](/images/portfolio03.png)Users can save help requests to avoid losing the track and send supplies for them later.
+![](/images/portfolio03.png)
+
+Users can save help requests to avoid losing the track and send supplies for them later.
 
 ![](/images/portfolio02.png)
 
