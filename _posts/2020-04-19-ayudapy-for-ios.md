@@ -22,13 +22,12 @@ Users can save help requests to avoid losing the track and send supplies for the
 
 ![](/images/portfolio02.png)
 
-I've focused in the FORM for registering help, I wanted that form to be fast, agile, comfortable, and I believe that I made it (I wanted it to be as similar as possible as Reflecty APP)... Currently the platform don't have a POST service yet to use so in the meantime I'm just redirecting to the web form.
+I've focused in the FORM for registering help, I wanted that form to be fast, agile, comfortable, and I believe that I made it (I wanted it to be as similar as possible as [Reflecty APP](https://reflectly.app/))... Currently the platform don't have a POST service yet to use so in the meantime I'm just redirecting to the web form.
 
 ![](/images/portfolio04.png)
 
-AyudaPY is available on the APP STORE:  
-[https://apps.apple.com/us/app/ayudapy/id1508566089?ls=1](https://apps.apple.com/us/app/ayudapy/id1508566089?ls=1 "https://apps.apple.com/us/app/ayudapy/id1508566089?ls=1")
+AyudaPY is available on the [APP STORE](https://apps.apple.com/us/app/ayudapy/id1508566089?ls=1).
 
-You can also watch a DEMO of the project on Youtube [https://www.youtube.com/watch?v=id2zs00FWBA](https://www.youtube.com/watch?v=id2zs00FWBA "https://www.youtube.com/watch?v=id2zs00FWBA").
+You can also watch a DEMO of the project on [Youtube](https://www.youtube.com/watch?v=id2zs00FWBA).
 
 Source code is available under GPLv3 license on [GitHub](https://github.com/pescode/AyudaPY-iOS).
